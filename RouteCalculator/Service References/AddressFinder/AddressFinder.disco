@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://services.maplink.com.br/webservices/v3.1/AddressFinder/AddressFinder.asmx?wsdl" docRef="http://services.maplink.com.br/webservices/v3.1/AddressFinder/AddressFinder.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://services.maplink.com.br/webservices/v3.1/AddressFinder/AddressFinder.asmx" xmlns:q1="http://webservices.maplink2.com.br" binding="q1:AddressFinderSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://services.maplink.com.br/webservices/v3.1/AddressFinder/AddressFinder.asmx" xmlns:q2="http://webservices.maplink2.com.br" binding="q2:AddressFinderSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
