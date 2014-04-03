@@ -7,11 +7,12 @@ MapLink Api sample application -
 Solution proposed
 ------------
 
-The solution proposed consists of 3 projects: 
+The solution proposed consists of 4 projects: 
 
 - `RouteCalculator` - WCF WebService
 - `HostRouteServer` - ASP.NET host site
 - `RouteCalculatorClient` - C# Console WebService tester
+- `UnitTestRouteCalculator` - Unit tests project
 
 RouteCalculator
 ------------
